@@ -1,0 +1,27 @@
+{
+  "name": "chitti.css",
+  "version": "0.0.1",
+  "description": "A small modern css reset",
+  "main": "chitti.css",
+  "style": "chitti.css",
+  "keywords": [
+    "small",
+    "tiny",
+    "css",
+    "reset",
+    "defaults"
+  ],
+  "author": "Ravigopal Kesari <kesariravigopal@gmail.com>(https://ravigopal.com)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rvgpl/chitti.css.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rvgpl/chitti.css/issues"
+  },
+  "homepage": "https://github.com/rvgpl/chitti.css#readme",
+  "files": [
+    "chitti.css"
+  ]
+}
