@@ -1,6 +1,6 @@
 # chitti.css
 
-A tiny modern CSS reset. 
+A small modern CSS reset. 
 
 > Chitti is a colloquial word for *small* in [Telugu](https://en.wikipedia.org/wiki/Telugu_language) language.
 
